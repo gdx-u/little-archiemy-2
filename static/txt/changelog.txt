@@ -1,0 +1,51 @@
+[1564]
+
+V1.0:
+- Added hints
+- Fixed issues with taking elements from sidebar
+- Added canvas clearing
+
+V1.1:
+- Removed variable sidebar width
+- Added full-canvas movement
+- Added support for multiple item creation
+
+V1.2:
+- Added final item checkbox
+- Added support for multiple item formulas
+- Added counter
+- Fixed hints suggesting unobtainable items
+
+V1.3:
+- Added searchbar
+- Added saving and loading using cookies
+- Added ability to delete save
+
+V1.4:
+- Fixed compatability issues between searchbar and checkbox
+- Added toasts
+
+V1.5:
+- Fixed further bugs with checkbox
+- Migrated from cookies to localstorage
+- Replaced alerts with toasts
+- Added help box
+
+V1.6:
+- Correctly centred [Delete Save] button
+- Polished help box
+- Fixed position issue when pulling elements from sidebar
+
+V1.7:
+- Added achievements
+- Miscellaneous bugfixes
+
+V1.8:
+- Added important items
+- Added ~50 new recipes for pre-existing items
+
+V1.9:
+- Added hidden items
+
+V2.0:
+- Completely revamped save codes - ~7000 characters ==> ~2000 characters.
